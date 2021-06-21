@@ -61,7 +61,6 @@ class CastingAgencyTestCase(unittest.TestCase):
     #     self.assertEqual(res.status_code, 200)
 
 
-
     def test_get_actor(self):
         res = self.client().get('/actors/1', headers = self.header_director)
         # res = self.client().get('/actors/1')
