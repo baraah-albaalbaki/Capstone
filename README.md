@@ -1,8 +1,7 @@
-Casting Agency
 
-# Motivation
+# Introduction
 
-Complete this capstone to graduate.
+Casting agency is a company that is responsible for creating movies and managing and assigning actors to those movies.
 
 ## Deployment Heroku
 
